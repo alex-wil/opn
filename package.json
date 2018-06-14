@@ -47,7 +47,9 @@
 		"file"
 	],
 	"dependencies": {
-		"is-wsl": "^1.1.0"
+		"child_process": "^1.0.2",
+		"is-wsl": "^1.1.0",
+		"path": "^0.12.7"
 	},
 	"devDependencies": {
 		"ava": "*",
